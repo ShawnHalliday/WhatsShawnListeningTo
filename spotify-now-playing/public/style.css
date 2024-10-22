@@ -1,0 +1,33 @@
+/* public/style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  #player {
+    margin-top: 50px;
+  }
+  
+  #album-art {
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+  }
+  
+  #track-info {
+    margin-top: 20px;
+  }
+  
+  #track-name {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  #artist-name {
+    font-size: 18px;
+    color: #b3b3b3;
+  }
+  
